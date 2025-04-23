@@ -46,7 +46,7 @@ Os resultados estão salvos na pasta `resultados/` e organizados por imagem, fil
 
 O notebook original é muito grande para ser incluído diretamente no GitHub, mas pode ser acessado pelo link abaixo:
 
-👉 [Acessar notebook no Google Colab]([https://colab.research.google.com/drive/13zuYcqb_min3AZJUpJAk-vTSJbIm4myL?usp=sharing])
+👉 [Acessar notebook no Google Colab](https://colab.research.google.com/drive/13zuYcqb_min3AZJUpJAk-vTSJbIm4myL?usp=sharing)
 
 ---
 
